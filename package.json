@@ -1,0 +1,14 @@
+{
+  "name": "memjs-wrapper",
+  "version": "0.0.1",
+  "description": "A simple wrapper for using memjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Yuri Victor <yurivictor@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "memjs": "^0.10.0"
+  }
+}
